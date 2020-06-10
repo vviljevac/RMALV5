@@ -1,0 +1,2 @@
+rootProject.name='RMALV5'
+include ':app'
